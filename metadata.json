@@ -1,0 +1,8 @@
+{
+  "name": "CHIZZY HUB - Shawarma & Loaded Fries Joint",
+  "description": "Accra's premier shawarma and loaded fries joint at UPSA Hostel C. Delivery starts at 3:30 PM. Handcrafted wraps, signature loaded fries, table reservations, and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
